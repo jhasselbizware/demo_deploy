@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "bizware_mdl"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ffdc6e45-a918-8956-4537-a0533d395811"
+  }
+}
